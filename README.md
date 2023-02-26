@@ -26,3 +26,4 @@ The shebang is in python 2 version, but if you are using a latest ros1 distro wh
 ```
  #!/usr/bin/env python3
 ```
+NOTE: If you are using the Nodes in your project, make sure you point out to my github official page where the node where gotten from.

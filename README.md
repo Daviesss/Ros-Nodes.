@@ -20,3 +20,9 @@ Catkin_create_pkg <name_of_package) rospy roscpp
 src git clone <.............>
 
 ```
+
+The shebang is in python 2 version, but if you are using a latest ros1 distro which is Noetic.Add the shebang below:
+
+```
+ #!/usr/bin/env python3
+```

@@ -9,7 +9,7 @@ Clone the package python files into your src of your ros1 package.
 
 To Create a package in Ros1.Commnand stated below:
 
-Catkin_create_pkg <name_of_package) rospy roscpp
+catkin_create_pkg <name_of_package) rospy roscpp
 
 ```
    cd src
